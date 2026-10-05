@@ -1,4 +1,4 @@
-# msc-dissertation-project
+## msc-dissertation-project
 
 # Sustainable AI: Accuracy vs. Energy Benchmarking Platform
 
